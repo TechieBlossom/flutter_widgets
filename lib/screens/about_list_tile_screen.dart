@@ -49,14 +49,14 @@ class AboutListTileScreen extends StatelessWidget {
           ),
           AboutListTile(
             icon: const Icon(Icons.abc_rounded),
-            applicationVersion: '2.0.0',
             applicationName: 'TECHIE BLOSSOM',
-            applicationLegalese: _legalese,
             applicationIcon: Image.asset(
               'assets/logo_small.png',
               width: 50,
               height: 50,
             ),
+            applicationLegalese: _legalese,
+            applicationVersion: '2.0.0',
             aboutBoxChildren: [
               ButtonBar(
                 alignment: MainAxisAlignment.start,
