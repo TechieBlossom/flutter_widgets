@@ -9,4 +9,5 @@ final widgets = {
   'AdaptiveTextSelectionToolbar': const AdaptiveTextSelectionToolbarScreen(),
   'AlertDialog': const AlertDialogScreen(),
   'Align': const AlignScreen(),
+  'AlignTransition': const AlignTransitionScreen(),
 };

@@ -6,3 +6,4 @@ export 'action_icon_theme_screen.dart';
 export 'adaptive_text_selection_toolbar.dart';
 export 'alert_dialog_screen.dart';
 export 'align_screen.dart';
+export 'align_transition_screen.dart';
