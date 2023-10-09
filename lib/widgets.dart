@@ -6,4 +6,7 @@ final widgets = {
   'AbsorbPointer': const AbsorbPointerScreen(),
   'ActionChip': const ActionChipScreen(),
   'ActionIconTheme': const ActionIconThemeScreen(),
+  'AdaptiveTextSelectionToolbar': const AdaptiveTextSelectionToolbarScreen(),
+  'AlertDialog': const AlertDialogScreen(),
+  'Align': const AlignScreen(),
 };
