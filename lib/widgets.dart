@@ -10,4 +10,6 @@ final widgets = {
   'AlertDialog': const AlertDialogScreen(),
   'Align': const AlignScreen(),
   'AlignTransition': const AlignTransitionScreen(),
+  'AndroidView (TODO)': const AndroidViewScreen(),
+  'AndroidViewSurface (TODO)': const AndroidViewSurfaceScreen(),
 };
