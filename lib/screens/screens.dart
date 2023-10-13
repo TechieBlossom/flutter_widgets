@@ -12,3 +12,4 @@ export 'android_view_surface_screen.dart';
 export 'animated_align_screen.dart';
 export 'animated_builder_screen.dart';
 export 'animated_container_screen.dart';
+export 'animated_cross_fade_screen.dart';
