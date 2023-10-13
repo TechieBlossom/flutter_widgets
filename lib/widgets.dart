@@ -1,3 +1,5 @@
+import 'package:flutterwidgets/screens/animated_builder_screen.dart';
+
 import 'screens/screens.dart';
 
 final widgets = {
@@ -12,4 +14,6 @@ final widgets = {
   'AlignTransition': const AlignTransitionScreen(),
   'AndroidView (TODO)': const AndroidViewScreen(),
   'AndroidViewSurface (TODO)': const AndroidViewSurfaceScreen(),
+  'AnimatedAlign': const AnimatedAlignScreen(),
+  'AnimatedBuilder': const AnimatedBuilderScreen(),
 };
