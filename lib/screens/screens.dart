@@ -13,3 +13,4 @@ export 'animated_align_screen.dart';
 export 'animated_builder_screen.dart';
 export 'animated_container_screen.dart';
 export 'animated_cross_fade_screen.dart';
+export 'animated_default_text_style_screen.dart';

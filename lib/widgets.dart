@@ -16,4 +16,5 @@ final widgets = {
   'AnimatedBuilder': const AnimatedBuilderScreen(),
   'AnimatedContainer': const AnimatedContainerScreen(),
   'AnimatedCrossFade': const AnimatedCrossFadeScreen(),
+  'AnimatedDefaultTextStyle': const AnimatedDefaultTextStyleScreen(),
 };
