@@ -26,6 +26,6 @@ final widgets = {
   'AnimatedPadding': const AnimatedPaddingScreen(),
   'AnimatedPhysicalModel': const AnimatedPhysicalModelScreen(),
   'AnimatedPositioned': const AnimatedPositionedScreen(),
-  'AnimatedPositionedDirectionalScreen':
-      const AnimatedPositionedDirectionalScreen(),
+  'AnimatedPositionedDirectional': const AnimatedPositionedDirectionalScreen(),
+  'AnimatedRotation': const AnimatedRotationScreen(),
 };
