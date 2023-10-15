@@ -26,3 +26,4 @@ export 'animated_positioned_directional_screen.dart';
 export 'animated_positioned_screen.dart';
 export 'animated_rotation_screen.dart';
 export 'animated_scale_screen.dart';
+export 'animated_size_screen.dart';
