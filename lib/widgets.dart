@@ -19,4 +19,5 @@ final widgets = {
   'AnimatedDefaultTextStyle': const AnimatedDefaultTextStyleScreen(),
   'AnimatedFractionallySizedBox': const AnimatedFractionallySizedBoxScreen(),
   'AnimatedGridScreen(TODO)': const AnimatedGridScreen(),
+  'AnimatedIconScreen': const AnimatedIconScreen(),
 };

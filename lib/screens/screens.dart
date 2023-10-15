@@ -16,3 +16,4 @@ export 'animated_cross_fade_screen.dart';
 export 'animated_default_text_style_screen.dart';
 export 'animated_fractionally_sized_box_screen.dart';
 export 'animated_grid_screen.dart';
+export 'animated_icon_screen.dart';
