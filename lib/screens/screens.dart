@@ -17,3 +17,4 @@ export 'animated_default_text_style_screen.dart';
 export 'animated_fractionally_sized_box_screen.dart';
 export 'animated_grid_screen.dart';
 export 'animated_icon_screen.dart';
+export 'animated_list_screen.dart';

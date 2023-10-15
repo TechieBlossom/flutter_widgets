@@ -20,4 +20,6 @@ final widgets = {
   'AnimatedFractionallySizedBox': const AnimatedFractionallySizedBoxScreen(),
   'AnimatedGridScreen(TODO)': const AnimatedGridScreen(),
   'AnimatedIconScreen': const AnimatedIconScreen(),
+  'AnimatedIconScreen(TODO)': const AnimatedListScreen(),
+  'AnimatedIconScreen(TODO)': const AnimatedListScreen(),
 };
