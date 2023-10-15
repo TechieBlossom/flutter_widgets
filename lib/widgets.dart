@@ -25,4 +25,5 @@ final widgets = {
   'AnimatedOpacity': const AnimatedOpacityScreen(),
   'AnimatedPadding': const AnimatedPaddingScreen(),
   'AnimatedPhysicalModel': const AnimatedPhysicalModelScreen(),
+  'AnimatedPositioned': const AnimatedPositionedScreen(),
 };
