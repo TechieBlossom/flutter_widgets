@@ -22,5 +22,6 @@ final widgets = {
   'AnimatedIconScreen': const AnimatedIconScreen(),
   'AnimatedIconScreen(TODO)': const AnimatedListScreen(),
   'AnimatedModalBarrier(TODO)': const AnimatedModalBarrierScreen(),
-  'AnimatedOpacity(TODO)': const AnimatedOpacityScreen(),
+  'AnimatedOpacity': const AnimatedOpacityScreen(),
+  'AnimatedPadding': const AnimatedPaddingScreen(),
 };

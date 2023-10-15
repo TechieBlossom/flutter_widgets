@@ -20,3 +20,4 @@ export 'animated_icon_screen.dart';
 export 'animated_list_screen.dart';
 export 'animated_modal_barrier_screen.dart';
 export 'animated_opacity_screen.dart';
+export 'animated_padding_screen.dart';
