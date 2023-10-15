@@ -24,4 +24,5 @@ final widgets = {
   'AnimatedModalBarrier(TODO)': const AnimatedModalBarrierScreen(),
   'AnimatedOpacity': const AnimatedOpacityScreen(),
   'AnimatedPadding': const AnimatedPaddingScreen(),
+  'AnimatedPhysicalModel': const AnimatedPhysicalModelScreen(),
 };
