@@ -1,3 +1,5 @@
+import 'package:flutter/cupertino.dart';
+
 import 'screens/screens.dart';
 
 final widgets = {
@@ -28,4 +30,5 @@ final widgets = {
   'AnimatedPositioned': const AnimatedPositionedScreen(),
   'AnimatedPositionedDirectional': const AnimatedPositionedDirectionalScreen(),
   'AnimatedRotation': const AnimatedRotationScreen(),
+  'AnimatedScale': const AnimatedScaleScreen(),
 };

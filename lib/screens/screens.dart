@@ -25,3 +25,4 @@ export 'animated_physical_model_screen.dart';
 export 'animated_positioned_directional_screen.dart';
 export 'animated_positioned_screen.dart';
 export 'animated_rotation_screen.dart';
+export 'animated_scale_screen.dart';
