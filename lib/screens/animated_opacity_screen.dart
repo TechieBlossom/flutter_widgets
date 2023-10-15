@@ -19,6 +19,7 @@ class AnimatedOpacityScreen extends StatelessWidget {
           child: AnimatedOpacity(
             duration: Duration(seconds: 2),
             opacity: 1,
+            curve: Curves.bounceInOut,
             child: Logo(),
           ),
         ),
