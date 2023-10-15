@@ -18,4 +18,5 @@ final widgets = {
   'AnimatedCrossFade': const AnimatedCrossFadeScreen(),
   'AnimatedDefaultTextStyle': const AnimatedDefaultTextStyleScreen(),
   'AnimatedFractionallySizedBox': const AnimatedFractionallySizedBoxScreen(),
+  'AnimatedGridScreen(TODO)': const AnimatedGridScreen(),
 };
