@@ -34,4 +34,5 @@ final widgets = {
   'AnimatedSwitcher': const AnimatedSwitcherScreen(),
   'AnimatedTheme': const AnimatedThemeScreen(),
   'AspectRatio': const AspectRatioScreen(),
+  'AutomaticKeepAlive(TODO)': const AutomaticKeepAliveScreen(),
 };
