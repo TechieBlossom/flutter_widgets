@@ -30,3 +30,4 @@ export 'animated_size_screen.dart';
 export 'animated_slide_screen.dart';
 export 'animated_switcher_screen.dart';
 export 'animated_theme_screen.dart';
+export 'aspect_ratio_screen.dart';

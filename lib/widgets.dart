@@ -33,4 +33,5 @@ final widgets = {
   'AnimatedSlide': const AnimatedSlideScreen(),
   'AnimatedSwitcher': const AnimatedSwitcherScreen(),
   'AnimatedTheme': const AnimatedThemeScreen(),
+  'AspectRatio': const AspectRatioScreen(),
 };
