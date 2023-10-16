@@ -31,4 +31,5 @@ final widgets = {
   'AnimatedScale': const AnimatedScaleScreen(),
   'AnimatedSize': const AnimatedSizeScreen(),
   'AnimatedSlide': const AnimatedSlideScreen(),
+  'AnimatedSwitcher': const AnimatedSwitcherScreen(),
 };

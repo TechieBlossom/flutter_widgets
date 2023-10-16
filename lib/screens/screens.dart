@@ -28,3 +28,4 @@ export 'animated_rotation_screen.dart';
 export 'animated_scale_screen.dart';
 export 'animated_size_screen.dart';
 export 'animated_slide_screen.dart';
+export 'animated_switcher_screen.dart';
