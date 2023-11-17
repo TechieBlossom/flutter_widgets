@@ -35,4 +35,5 @@ final widgets = {
   'AnimatedTheme': const AnimatedThemeScreen(),
   'AspectRatio': const AspectRatioScreen(),
   'AutomaticKeepAlive(TODO)': const AutomaticKeepAliveScreen(),
+  'BackButton': const BackButtonScreen(),
 };

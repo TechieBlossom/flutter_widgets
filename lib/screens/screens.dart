@@ -32,3 +32,4 @@ export 'animated_switcher_screen.dart';
 export 'animated_theme_screen.dart';
 export 'aspect_ratio_screen.dart';
 export 'automatic_keep_alive_screen.dart';
+export 'back_button_screen.dart';
